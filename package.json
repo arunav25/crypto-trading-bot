@@ -1,0 +1,38 @@
+{
+  "name": "crypto-trading-bot",
+  "version": "1.0.0",
+  "description": "A Node.js crypto trading bot for RSI curve divergence signals on Binance - EDUCATIONAL/TESTING PURPOSES ONLY",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test_bot.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "trading",
+    "bot",
+    "binance",
+    "rsi",
+    "macd",
+    "divergence",
+    "technical-analysis",
+    "educational",
+    "testing",
+    "demo"
+  ],
+  "author": "Arunav Malhotra",
+  "license": "MIT",
+  "dependencies": {
+    "ccxt": "^4.0.0",
+    "technicalindicators": "^3.1.0",
+    "simple-statistics": "^7.8.3",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+} 
