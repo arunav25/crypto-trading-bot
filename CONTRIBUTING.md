@@ -24,4 +24,4 @@ Thanks for your interest in contributing! Here are some tips to get you started:
 - Add more tests
 - Make the bot configurable via CLI or config file
 
-Happy hacking! 🚀 
+Happy coding and trading! 🚀
